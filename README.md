@@ -1,4 +1,4 @@
-# Ex-04 Places Around Me
+![Screenshot 2024-04-09 181611](https://github.com/ThangaDeepika/NearMe/assets/125663099/c538df7d-b723-4a1d-bce6-c769cf56b5e3)# Ex-04 Places Around Me
 ## Date: 
 
 ## AIM
@@ -23,6 +23,7 @@ Write HTML programs for all the regions identified.
 
 ### STEP 6
 Execute the programs and publish them.
+
 
 ## CODE
 ```
@@ -63,8 +64,12 @@ Execute the programs and publish them.
     
 </body>
 </html>
+
 ```
 ## OUTPUT
-![Screenshot 2024-04-09 180700](https://github.com/ThangaDeepika/NearMe/assets/125663099/73debf02-83e5-4149-998f-2ef11cfc6365)
+![Screenshot 2024-04-09 181735](https://github.com/ThangaDeepika/NearMe/assets/125663099/32bea714-aff1-432f-a76c-d3d9ae6f9c30)
+
+![Screenshot 2024-04-09 181611](https://github.com/ThangaDeepika/NearMe/assets/125663099/37c0eb96-f56f-489c-8936-ce91f5c2b3e9)
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
