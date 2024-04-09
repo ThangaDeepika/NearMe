@@ -1,4 +1,4 @@
-![Screenshot 2024-04-09 181611](https://github.com/ThangaDeepika/NearMe/assets/125663099/c538df7d-b723-4a1d-bce6-c769cf56b5e3)# Ex-04 Places Around Me
+# Ex-04 Places Around Me
 ## Date: 
 
 ## AIM
